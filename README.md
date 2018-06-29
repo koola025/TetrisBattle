@@ -1,3 +1,4 @@
 # TetrisBattle
 
-![tetrisDemoPic.png]tetrisDemoPic.png
+![](https://tetrisDemoPic.png)
+
